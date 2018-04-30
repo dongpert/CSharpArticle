@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingletonPattern", "SingletonPattern\SingletonPattern.csproj", "{7CBF54F8-1744-4799-BB9E-C79289BFFAD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffStringAndStringBuilder", "DiffStringAndStringBuilder\DiffStringAndStringBuilder.csproj", "{D6CA0CEB-BB2D-45B7-8A1B-A85AB7934AED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7CBF54F8-1744-4799-BB9E-C79289BFFAD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CBF54F8-1744-4799-BB9E-C79289BFFAD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CBF54F8-1744-4799-BB9E-C79289BFFAD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CBF54F8-1744-4799-BB9E-C79289BFFAD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CA0CEB-BB2D-45B7-8A1B-A85AB7934AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CA0CEB-BB2D-45B7-8A1B-A85AB7934AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CA0CEB-BB2D-45B7-8A1B-A85AB7934AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CA0CEB-BB2D-45B7-8A1B-A85AB7934AED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BB482F6D-2872-4ED7-8CE2-19979ACB9CB3}
+	EndGlobalSection
+EndGlobal
